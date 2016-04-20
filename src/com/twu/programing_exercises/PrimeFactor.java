@@ -1,4 +1,4 @@
-package programing_exercises;
+package com.twu.programing_exercises;
 
 import java.util.ArrayList;
 import java.util.List;
